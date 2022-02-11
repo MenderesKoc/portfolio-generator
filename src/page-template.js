@@ -1,6 +1,6 @@
 
 module.exports = (name, github) => {
-    return `
+  return `
   <!DOCTYPE html>
   <html lang="en">
   
@@ -17,4 +17,5 @@ module.exports = (name, github) => {
   </body>
   </html>
   `;
+
 };
