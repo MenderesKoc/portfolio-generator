@@ -24,7 +24,4 @@ Building an HTML portfolio generator using Node.js
 
 [developer.mozilla.Template.literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
-## Contribution
-Made with ❤️ by [Menderes Koc]
-
 ### ©️2022
